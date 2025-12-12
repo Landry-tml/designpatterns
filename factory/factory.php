@@ -1,3 +1,3 @@
-// factory design pattern
-<?php 
+// design pattern
+<?php
 ?>
